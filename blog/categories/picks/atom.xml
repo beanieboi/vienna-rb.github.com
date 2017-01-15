@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2017-01-15T11:49:10+01:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/01/11/picks/"/>
+    <updated>2017-01-11T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/01/11/picks</id>
+    <content type="html"><![CDATA[<h3>01/11 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-third edition:</p>
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a></h5>
+
+<ul>
+<li><a href="https://github.com/jistr/vim-nerdtree-tabs"><code>vim-nerdtree-tabs</code></a> - A Vim plugin allowing NERDtree and tabs to work together.</li>
+<li><a href="https://www.memrise.com/">Memrise</a> - Free-ish platform for learning spoken languages, with videos of natives speaking!</li>
+<li><a href="https://www.panoptikum.io/vienna-beamers/">Vienna BEAMers</a> - A bi-weekly Elixir study group held here in Vienna.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding">Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding</a></li>
+<li><a href="https://jvns.ca/blog/good-questions/">How to ask good questions</a> - An essential guide.</li>
+<li><a href="https://m.signalvnoise.com/writing-software-is-hard-388d5e982ad9">Writing software is hard</a> - We all know it, but we&rsquo;re still shocked when we encounter bad software.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=6NTmUQClHrU">Building an Umbrella Project</a> - Awesome talk on Elixir (&amp; Phoenix) umbrella apps vs. microservices.</li>
+<li><a href="https://github.com/runtastic/rubocop_runner">rubocop_runner</a> - Nifty little tool used at Runtastic to prevent devs from committing non-<a href="https://github.com/bbatsov/rubocop">Rubocop</a>-confirm code.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/01/04/picks/"/>
+    <updated>2017-01-04T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/01/04/picks</id>
+    <content type="html"><![CDATA[<h3>01/04 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-second edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=taklO4YIMow">Jessica Rose - Imposter Syndrome and Individual Competence</a></li>
+<li><a href="http://skeptics.stackexchange.com/questions/2795/is-the-ballmer-peak-real">Is the Ballmer Peak real?</a> - From <a href="http://xkcd.com/323/">this XKCD comic</a>.</li>
+<li><a href="http://choosealicense.com">Choose an open source license</a> - It&rsquo;s a new year, you might have made a resolution to make a new open source project, and you&rsquo;ll need a license for it.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/12/28/picks/"/>
+    <updated>2016-12-28T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/12/28/picks</id>
+    <content type="html"><![CDATA[<h3>12/28 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-first edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://thomasleecopeland.com/2016/06/26/basicobject-is-a-range.html">Why is a BasicObject a Range?</a></li>
+<li><a href="http://katemats.com/fresh-starts/">Just because you have been doing it doesn’t mean you are doing it right</a></li>
+<li><a href="https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8">10 Modern Software Over-Engineering Mistakes</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/12/21/picks/"/>
+    <updated>2016-12-21T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/12/21/picks</id>
+    <content type="html"><![CDATA[<h3>12/21 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninetieth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=nwhZ3KEqUlw">Web Design: The First Hundred Years with Maciej Ceglowski</a></li>
+<li><a href="https://m.signalvnoise.com/i-m-a-boring-programmer-and-proud-of-it-d4ac3dd2defe">I’m a boring programmer (and proud of it)</a> - We&rsquo;re all suckers for excitement, but in your job, being boring can be a big advantage.</li>
+<li><a href="https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works">Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/12/14/picks/"/>
+    <updated>2016-12-14T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/12/14/picks</id>
+    <content type="html"><![CDATA[<h3>12/14 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-eighty-ninth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="http://thewirecutter.com/reviews/best-password-managers/">The Best Password Managers</a> - The Wirecutter looks at the best password managers out there. If you don&rsquo;t use one already, take a look, then pick one.</li>
+<li><a href="https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/">Decrypting TLS Browser Traffic With Wireshark – The Easy Way!</a> - Sometimes, you do need to debug TLS traffic. With this trick, you can even do it when you use certificate pinning.</li>
+<li><a href="https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca">A Comprehensive Guide to Terraform</a> - Terraform is a tool to programatically provide &amp; manage infrastructure - both servers and software.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://www.rubytapas.com/2016/12/05/refactoring-ruby-dry-domain-models-struct-table/">DRY up your domain models using a struct table</a> - Unconventional but super neat refactoring technique.</li>
+<li><a href="http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html">Clean your desk</a> - Second in a series of posts causing shitstorms at Amazon (quite rightly).</li>
+<li><a href="http://bikeshed.fm/91">I Think It&rsquo;s a Fish</a> - Funny, trolly episode of the Bike Shed with insights on day-to-day (open source) work.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
